@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416769283545",
+    "project_id": "workout-app-tj",
+    "storage_bucket": "workout-app-tj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416769283545:android:0cb98921648c90c1c5b5c8",
+        "android_client_info": {
+          "package_name": "com.example.workoutApp5511"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1eG7C51P3MYndmsgMB1a5sJvJ0pDOIcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
